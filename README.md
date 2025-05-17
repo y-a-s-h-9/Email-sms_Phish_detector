@@ -67,7 +67,11 @@ To start the Flask web application:
 python app.py
 ```
 
-Access the application by navigating to \`http://localhost:5000\` in your web browser.
+Access the application by navigating to \`http://localhost:8501\` in your web browser.
+
+### Output
+<img width="500" alt="Screenshot 2025-05-17 at 17 10 41" src="https://github.com/user-attachments/assets/1dc09d79-cd6d-46d5-bde8-992e2ca4e4fb" />
+<img width="500" alt="Screenshot 2025-05-17 at 17 11 05" src="https://github.com/user-attachments/assets/16bae64d-ccbc-4c1e-8d53-939be9cf6f56" />
 
 ## 🧪 Training the Model
 
