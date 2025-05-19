@@ -1,6 +1,6 @@
 
 # 📧 Email & SMS Phishing Detector
-
+### Final Year Capstone Project – B.Tech in Computer Science
 An end-to-end machine learning project that detects phishing attempts in emails and SMS messages. This tool helps identify spam or malicious content using natural language processing (NLP) and classification techniques.
 
 ## 🔍 Features
@@ -90,3 +90,12 @@ The project uses the \`spam.csv\` dataset, which contains labeled messages for t
 
 The application is ready for deployment on platforms like Heroku. Ensure that \`Procfile\` and \`setup.sh\` are correctly configured for your deployment environment.
 
+## 🙏 Acknowledgement
+
+Special thanks to [**CampusX**](https://github.com/campusx-official) for their guidance and valuable resources that inspired this project.
+
+
+## 👥 Contributors
+
+- [**Yashashvi B**](https://github.com/y-a-s-h-9)
+- [**Shalini Baddem**](https://github.com/shalinibaddem)
