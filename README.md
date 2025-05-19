@@ -98,5 +98,6 @@ Special thanks to [**CampusX**](https://github.com/campusx-official) for their g
 ## 👥 Contributors
 
 - [**Yashashvi B**](https://github.com/y-a-s-h-9)
+- [**Gayathri Thotakura**](https://github.com/Gayathrithotakura)
 - [**Shalini Baddem**](https://github.com/shalinibaddem)
 - [**N Shravya**](https://github.com/shravya12-2003)
